@@ -1,0 +1,118 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:sans-serif;
+}
+
+header{
+    background:#ff2323;
+    color:white;
+    padding:30px 80px;
+}
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+ul{
+    display:flex;
+    gap:30px;
+    list-style:none;
+}
+
+.hero{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-top:50px;
+}
+
+.hero h1{
+    font-size:60px;
+    width:500px;
+}
+
+.hero p{
+    width:450px;
+    margin:20px 0;
+}
+
+button{
+    padding:15px 40px;
+    border: 2px solid white;
+    background-color: #ff2323;
+    border-radius:30px;
+    color: white;
+}
+
+/* .menu{
+    text-align:center;
+    padding:50px;
+}
+
+.foods{
+    display:flex;
+    justify-content:center;
+    gap:40px;
+}
+
+.offers{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    padding:60px;
+}
+
+.card{
+    width:300px;
+    background:white;
+    border-radius:20px;
+    padding:20px;
+}
+
+.app{
+    background:#f8b739;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:100px;
+    padding:60px;
+}
+
+.reviews{
+    padding:80px;
+    text-align:center;
+}
+
+.cards{
+    display:flex;
+    gap:30px;
+    justify-content:center;
+    margin-top:40px;
+}
+
+.review{
+    width:300px;
+    background:white;
+    padding:25px;
+    border-radius:15px;
+}
+
+.top-footer{
+    background:#ff2323;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    padding:25px;
+}
+
+.bottom-footer{
+    background:#1d212b;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    padding:60px;
+} */
