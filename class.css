@@ -180,7 +180,11 @@ button{
     margin-left: 570px;
 }
 
-/* .top-footer{
+.footerkfc{
+    display: flex;
+    align-items: center;
+}
+.top-footer{
     background:#ff2323;
     color:white;
     display:flex;
@@ -194,4 +198,16 @@ button{
     display:flex;
     justify-content:space-around;
     padding:60px;
-}  */
+} 
+.bottom-footer{
+    display: flex;
+    row-gap: 30px;
+    color: #D9DBE1;
+}
+.bottom-footer input{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid white;
+}
