@@ -97,7 +97,7 @@ button{
     gap:20px;
     padding:20px;
     background-color: bisque;
-    height: 250px;
+    height: 400px;
 }
 .card2{
     width:460px;
@@ -120,17 +120,24 @@ button{
     margin-left: -10px; */
 }
 
-
-/* .app{
+.app{
     background:#f8b739;
     display:flex;
     justify-content:center;
     align-items:center;
     gap:100px;
     padding:60px;
+    height: 400px;
+}
+.text{
+    color: white;
+    font-size: 26px;
+}
+.text img{
+    margin-top: 50px;
 }
 
-.reviews{
+/* .reviews{
     padding:80px;
     text-align:center;
 }
@@ -163,4 +170,4 @@ button{
     display:flex;
     justify-content:space-around;
     padding:60px;
-} */
+}  */
