@@ -137,9 +137,11 @@ button{
     margin-top: 50px;
 }
 
-/* .reviews{
+.reviews{
     padding:80px;
     text-align:center;
+    background-color:antiquewhite;
+    text-align: start;
 }
 
 .cards{
@@ -150,13 +152,35 @@ button{
 }
 
 .review{
-    width:300px;
+    width:350px;
     background:white;
     padding:25px;
     border-radius:15px;
+    height: 350px;
+    margin-left: -270px;
+}
+.review2{
+    width:330px;
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    height: 220px;
+    margin-top: 130px;
+    position: absolute;
+    margin-left: 510px;
+}
+.review3{
+    width:400px;
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    margin-top: -100px;
+    height: 200px;
+    position: absolute;
+    margin-left: 570px;
 }
 
-.top-footer{
+/* .top-footer{
     background:#ff2323;
     color:white;
     display:flex;
